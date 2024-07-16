@@ -10,6 +10,8 @@
  e. Create Manhattan plots
 
 
+For the example tutorials for different pipelines, go to this wiki (https://github.com/izeunice05/test/wiki).
+
 This is a GWAS excercise/tutorial example code using Taiwan Biobank
 
 | Command   |    Description         |
