@@ -10,7 +10,6 @@ You can find different pipelines for various past and ongoing projects in the la
 
 For each pipeline, you should be able to find brief description on each method and example codes/scripts that you can run and reproduce the results. These pipelines are written in different programming languages including bash, perl, python, plink and R.
 
-Go to this wiki (https://github.com/izeunice05/test/wiki) page to find these pipelines.
-
+Please visit this wiki (https://github.com/izeunice05/test/wiki) page to fine the above pipeilnes.
 
 
